@@ -16,5 +16,3 @@ void main(void)
 				printf( "Caso c - %c\n",c);
 		}
 }
-
-le agrego
